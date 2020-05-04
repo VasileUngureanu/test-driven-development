@@ -8,7 +8,14 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * ["Agile Technical Practices Distilled" book](https://www.goodreads.com/book/show/41758433-agile-technical-practices-distilled?ac=1&from_search=true&qid=D0HdKAW1u8&rank=2)
+* [Outside-In TDD](https://codurance.com/videos/2015-05-12-outside-in-tdd-part-1/)
+
+
+### To master, continue with
+
 * ["Growing Object-Oriented Software, Guided by Tests" book](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
 * ["Test Driven Development: By Example" book](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 * ["TDD" book](https://www.goodreads.com/book/show/32618000-tdd)
@@ -21,7 +28,6 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Does TDD Really Lead to Good Design? 2](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 * [The London School of Test Driven Development](http://coding-is-like-cooking.info/2013/04/the-london-school-of-test-driven-development/)
 * [Outside-In development with Double Loop TDD](http://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/)
-* [Outside-In TDD](https://codurance.com/videos/2015-05-12-outside-in-tdd-part-1/)
 * [Outside-In TDD on Android](https://proandroiddev.com/outside-in-tdd-on-android-5f0651054946)
 * [Comparing TDD flavours](https://nvoulgaris.com/comparing-tdd-flavours/)
 * [What I’ve learned on the Crafted Code course](https://www.simpleorientedarchitecture.com/what-ive-learned-on-the-crafted-code-course/)
